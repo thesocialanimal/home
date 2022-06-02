@@ -392,10 +392,20 @@
                 <a href="#"><img src="" alt="" /></a>
               </div>
               <p class="footer__copyright__text">
+                <p id="date_demo"></p>  <!-- Nitish 02 June 2022 -->
                 Copyright ©
                 <script>
                   document.write(new Date().getFullYear()); 
                 </script>
+              <!-- Nitish -->
+                <script>
+                function datefunction() {
+                  var date = document.write(new Date().getFullYear());
+                  return date;
+                    }
+                document.getElementById("date_demo").innerHTML = datefunction();  
+                </script>
+              <!-- Nitish -->
                 All rights reserved
                 <i class="fa fa-heart-o" aria-hidden="true"></i> by
                 <a href="https://thesocialanimal.github.io/home/" target="_blank">TheSocialAnimal</a>
