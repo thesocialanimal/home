@@ -1310,14 +1310,14 @@ ol {
 }
 
 .episodes__details__text {
-	text-align: center;
+	text-align: right;
 	margin-bottom: 45px;
 }
 
 .episodes__details__text p {
 	font-size: 17px;
 	line-height: 30px;
-	text-align: center;
+	text-align: right;
 }
 
 .episodes__details__text h4 {
@@ -1325,7 +1325,7 @@ ol {
 	font-weight: 700;
 	margin-top: 20px;
 	margin-bottom: 20px;
-	text-align: center;
+	text-align: right;
 }
 
 .episodes__details__text ul li {
@@ -1911,7 +1911,7 @@ ol {
 }
 
 .blog__details__quote .icon span {
-	text-align: left; 
+	text-align: right; 
 	font-size: 80px;
 	color: #6763fd;
 }
