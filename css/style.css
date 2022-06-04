@@ -1317,6 +1317,7 @@ ol {
 .episodes__details__text p {
 	font-size: 17px;
 	line-height: 30px;
+	text-align: center;
 }
 
 .episodes__details__text h4 {
@@ -1324,6 +1325,7 @@ ol {
 	font-weight: 700;
 	margin-top: 20px;
 	margin-bottom: 20px;
+	text-align: center;
 }
 
 .episodes__details__text ul li {
